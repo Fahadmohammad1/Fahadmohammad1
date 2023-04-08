@@ -28,8 +28,8 @@
 
 ### :fire: My Stats :
 
-![Fahad Bin Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahadmohammad1&show_icons=true&theme=aura)
-
 [![Fahad Bin Nur Streak](http://github-readme-streak-stats.herokuapp.com?user=Fahadmohammad1&theme=aura)](https://git.io/streak-stats)
+
+![Fahad Bin Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahadmohammad1&show_icons=true&theme=aura)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadmohammad1&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
