@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <div id="header" align="center">
-  <a href="https://app.daily.dev/fahad_bin_nur"><img src="https://api.daily.dev/devcards/bcfd39caaf6f40fe9da66aa118e450a5.png?r=51f" width="400" alt="Fahad Bin Nur's Dev Card"/></a>
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Fahadmohammad1/Fahadmohammad1/blob/master/devcard.svg" width="400" alt="Fahad's Dev Card"/></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmohammad1&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmohammad1" /> </p>
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yXom3Yd7XMx_IxN5Aw_MvHktYuNf_Nuu/view?usp=sharing](https://drive.google.com/file/d/1yXom3Yd7XMx_IxN5Aw_MvHktYuNf_Nuu/view?usp=sharing)
 
-- ⚡ Fun fact **I think Iam funny**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
