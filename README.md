@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fahad Bin Nur</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="600" height="300"/>
+  <a href="https://app.daily.dev/fahad_bin_nur"><img src="https://api.daily.dev/devcards/bcfd39caaf6f40fe9da66aa118e450a5.png?r=51f" width="400" alt="Fahad Bin Nur's Dev Card"/></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmohammad1&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmohammad1" /> </p>
