@@ -2,7 +2,9 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <div id="header" align="center">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Fahadmohammad1/Fahadmohammad1/blob/master/devcard.svg" width="400" alt="Fahad's Dev Card"/></a>
+  <a href="https://app.daily.dev/fahad_bin_nur">
+    <img src="https://github.com/Fahadmohammad1/Fahadmohammad1/blob/main/devcard.svg" width="400" alt="Fahad's Dev Card"/>
+  </a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmohammad1&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmohammad1" /> </p>
