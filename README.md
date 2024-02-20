@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fahad Bin Nur</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmohammad1&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmohammad1" /> </p> 
-<p>
-  <a href="https://app.daily.dev/fahad_bin_nur">
-    <img align="right" src="https://github.com/Fahadmohammad1/Fahadmohammad1/blob/main/devcard.svg" width="200" alt="Fahad's Dev Card"/>
-  </a>
-</p>
-  
+<p align="center"> <a href="https://app.daily.dev/fahad_bin_nur"><img src="https://api.daily.dev/devcards/v2/l5KDpcbCvCLqGv4A1nYKu.png?r=5cg&type=wide" width="652" alt="Fahad Bin Nur's Dev Card"/></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmohammad1&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmohammad1" /> </p>
+
 - 👨‍💻 All of my projects are available at - [My Portfolio](https://fahad-portfolio-b1c46.web.app/)
 
 - 📫 Reach me at - **fahadbinnur9@gmail.com**
