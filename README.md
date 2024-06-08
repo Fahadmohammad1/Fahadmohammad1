@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad Bin Nur</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">Full-Stack Developer from Bangladesh</h3>
 
 <p align="center"> <a href="https://app.daily.dev/fahad_bin_nur"><img src="https://api.daily.dev/devcards/v2/l5KDpcbCvCLqGv4A1nYKu.png?r=5cg&type=wide" width="652" alt="Fahad Bin Nur's Dev Card"/></a> </p>
 
