@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/fahad-bin-nur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-bin-nur" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18390241/fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18390241/fahad" height="30" width="40" /></a>
 <a href="https://fb.com/fahad.mohammad.397501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahad.mohammad.397501" height="30" width="40" /></a>
-<a href="https://instagram.com/fahad_bin_nur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahad_bin_nur" height="30" width="40" /></a>
 </p>
 
 # 💻Tech Stack:
