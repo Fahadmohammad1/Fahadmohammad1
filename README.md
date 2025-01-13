@@ -18,7 +18,7 @@
 <a href="https://fb.com/fahad.mohammad.397501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahad.mohammad.397501" height="30" width="40" /></a>
 </p>
 
-# 💻Tech Stack:
+# 💻 Tech Stack:
 
 <h3 align="left">Programming Languages</h3>
 
