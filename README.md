@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmohammad1&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmohammad1" /> </p>
 
-- 👨‍💻 All of my projects are available at - [My Portfolio](https://fahad-portfolio-b1c46.web.app/)
+- 👨‍💻 All of my projects are available at my - [Portfolio](https://fahad-portfolio-b1c46.web.app/)
 
 - 📫 Reach me at - **fahadbinnur9@gmail.com**
 
