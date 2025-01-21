@@ -11,7 +11,7 @@
 
 - 📄 Checkout my - [Resume](https://drive.google.com/file/d/1yXom3Yd7XMx_IxN5Aw_MvHktYuNf_Nuu/view?usp=sharing)
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahad-bin-nur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-bin-nur" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18390241/fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18390241/fahad" height="30" width="40" /></a>
